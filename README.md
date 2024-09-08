@@ -1,2 +1,3 @@
 # Snake_java-game
-Sanke Java game (using swing)
+
+![image](https://github.com/user-attachments/assets/00dc0482-813c-4364-b083-b223071e6003)
